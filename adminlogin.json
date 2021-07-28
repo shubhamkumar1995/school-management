@@ -1,0 +1,13 @@
+{
+    "admin-details": [
+        {
+            "Username": "admin",
+            "Password": "12345",
+            "Name": "Satya Narayana",
+            "Address": "Hyderabad",
+            "Qualification": "M.Tech",
+            "Experience": "8 years",
+            "Designation": "Founder & CEO - 'Narayana Tech- House'"
+        }
+    ]
+}

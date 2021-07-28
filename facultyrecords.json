@@ -1,0 +1,12 @@
+{
+    "faculty-records": [
+        {
+            "Username": "satya",
+            "Password": "s1",
+            "Name": "satya Narayana",
+            "Address": "hyd",
+            "Qualification": "mtech",
+            "Subjects": "python"
+        }
+    ]
+}

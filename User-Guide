@@ -1,0 +1,79 @@
+     ***************************  School Management System - User Guide ***********************************
+
+
+     Note - Do not Make any changes in json files or python files, This may kill some features of the app.  
+
+
+     About Software:-
+     ----------------
+
+
+     1. This School Management System uses the files as a backend. 
+     2. The backend Technology used is 'Python' and 'Json' to save and retrieve the data. 
+     3. This app is secured from the front-end, Even the 'Admin' also can't see the password after creating the user. 
+        Only there is option to forget password. :)
+
+     3. This SMS software has two sections 
+     	a. For Admin
+     	b. For Faculties. 
+
+
+     About Admin Section:-
+     --------------------
+
+     => This software allows admin to manage the Faculties and Students. 
+
+     Features are given below.
+     ------------------------
+
+     1. Admin Login 
+     2. Admin Password Reset/Change.
+     3. Admin can Create the User in the software for Faculties and Students.
+     4. Admin can -
+
+     	a. Add Faculties Profile. 
+     	b. View All or Specific Faculty Data. 
+     	c. Delete Faculties. 
+     	d. Add Students Data 
+     	e. View Student Data. 
+     	f. Delete Student Data.
+
+     For Faculties
+     -------------
+
+     1. Faculties can See their profile. 
+     2. Change their Passwords. 
+     3. Manage their Subjects - Add or Delete
+     4. Faculties can-
+
+     	a. Add Student Data.
+     	b. View Student Data. 
+     	c. Delete Student Data.
+
+
+    How to Use?
+    -------------
+
+    Goto the School-Management Folder in the terminal
+    ------------------------------------------------
+
+    Step -1    cd	C://....../school-management
+
+    Run index.py File
+    -----------------
+
+    Step - 2  Run Command - "python3 index.py"
+
+
+    ---------- Home Page will Open ----------
+
+
+    Step -3 Press 1 for Admin User
+
+         Admin =>  username : admin
+                  Password : 12345    
+
+
+   Now you are successfully logged In. Enjoy this software! :)
+
+
