@@ -1,0 +1,25 @@
+{
+    "student-data": [
+        {
+            "Name": "Mohan",
+            "StudentID": 105,
+            "Address": "Gurgaon",
+            "Course Name": "Json",
+            "Course Duration": 10
+        },
+        {
+            "Name": "Ramesh",
+            "StudentID": 103,
+            "Address": "Mumbai",
+            "Course Name": "Python",
+            "Course Duration": 45
+        },
+        {
+            "Name": "Hareesh",
+            "StudentID": 107,
+            "Address": "Mumbai",
+            "Course Name": "Java",
+            "Course Duration": 90
+        }
+    ]
+}
